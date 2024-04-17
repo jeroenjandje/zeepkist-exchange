@@ -1,6 +1,6 @@
 ﻿namespace ZeepkistExchange.events;
 
-public class VoteEvent : Event
+public abstract class Event
 {
     
 }

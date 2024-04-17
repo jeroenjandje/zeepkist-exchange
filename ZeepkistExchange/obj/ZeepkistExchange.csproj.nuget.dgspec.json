@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Code\\zeepkist\\zeepkist-exchange\\ZeepkistExchange\\ZeepkistExchange\\ZeepkistExchange.csproj": {}
+  },
+  "projects": {
+    "F:\\Code\\zeepkist\\zeepkist-exchange\\ZeepkistExchange\\ZeepkistExchange\\ZeepkistExchange.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Code\\zeepkist\\zeepkist-exchange\\ZeepkistExchange\\ZeepkistExchange\\ZeepkistExchange.csproj",
+        "projectName": "ZeepkistExchange",
+        "projectPath": "F:\\Code\\zeepkist\\zeepkist-exchange\\ZeepkistExchange\\ZeepkistExchange\\ZeepkistExchange.csproj",
+        "packagesPath": "C:\\Users\\jeroe\\.nuget\\packages\\",
+        "outputPath": "F:\\Code\\zeepkist\\zeepkist-exchange\\ZeepkistExchange\\ZeepkistExchange\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jeroe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.bepinex.dev/v3/index.json": {},
+          "https://nuget.samboy.dev/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "BepInEx.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.*, )"
+            },
+            "BepInEx.Core": {
+              "target": "Package",
+              "version": "[5.*, )"
+            },
+            "BepInEx.PluginInfoProps": {
+              "target": "Package",
+              "version": "[2.*, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "ZeepSDK": {
+              "target": "Package",
+              "version": "[1.29.3, )"
+            },
+            "Zeepkist.GameLibs": {
+              "target": "Package",
+              "version": "[1.0.0-alpha.15.74.708, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

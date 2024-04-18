@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("My Zeepkist plugin")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58c4da63762f91c9cb69a2b319b3afdab97fd26d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZeepkistExchange")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZeepkistExchange")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

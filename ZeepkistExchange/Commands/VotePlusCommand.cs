@@ -1,4 +1,6 @@
 using System;
+using ZeepkistClient;
+using ZeepSDK.Chat;
 using ZeepSDK.ChatCommands;
 
 namespace ZeepkistExchange.commands;
@@ -12,6 +14,10 @@ public class VotePlusCommand : ILocalChatCommand
 
     public void Handle(string arguments)
     {
+        
+        var userFullname = ZeepkistNetwork.LocalPlayer.playerTag + ZeepkistNetwork.LocalPlayer.Username;
+        ChatApi.SendMessage($"{userFullname} voted +");
+        
         OnHandle?.Invoke(arguments);
     }
 }

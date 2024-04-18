@@ -26,9 +26,4 @@
     <ItemGroup Condition="'$(TargetFramework.TrimEnd(`0123456789`))' == 'net'">
         <PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies" Version="1.0.3" PrivateAssets="all" />
     </ItemGroup>
-
-    <ItemGroup>
-      <Folder Include="Requests\" />
-      <Folder Include="Helpers\" />
-    </ItemGroup>
 </Project>

@@ -148,3 +148,5 @@ F:\Code\zeepkist\zeepkist-exchange\ZeepkistExchange\ZeepkistExchange\obj\Debug\n
 F:\Code\zeepkist\zeepkist-exchange\ZeepkistExchange\ZeepkistExchange\obj\Debug\net472\Zeepkist.6F840807.Up2Date
 F:\Code\zeepkist\zeepkist-exchange\ZeepkistExchange\ZeepkistExchange\obj\Debug\net472\ZeepkistExchange.dll
 F:\Code\zeepkist\zeepkist-exchange\ZeepkistExchange\ZeepkistExchange\obj\Debug\net472\ZeepkistExchange.pdb
+F:\Code\zeepkist\zeepkist-exchange\ZeepkistExchange\ZeepkistExchange\bin\Debug\net472\ZeepkistExchange.dll.config
+F:\Code\zeepkist\zeepkist-exchange\ZeepkistExchange\ZeepkistExchange\obj\Debug\net472\ZeepkistExchange.sourcelink.json
